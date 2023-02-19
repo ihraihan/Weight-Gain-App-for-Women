@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-IH Raihan built the Weight Gain App for Women as a Free app. This SERVICE is provided by IH Raihan at no cost and is intended for use as is.
+FitnessFit built the Weight Gain App for Women app as an Ad Supported app. This SERVICE is provided by FitnessFit at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -17,6 +17,9 @@ The app does use third-party services that may collect information used to ident
 Link to the privacy policy of third-party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
 **Log Data**
 
@@ -55,7 +58,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-09-24
+This policy is effective as of 2023-02-19
 
 **Contact Us**
 
